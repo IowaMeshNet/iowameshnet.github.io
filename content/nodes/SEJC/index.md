@@ -17,6 +17,6 @@ contact:
 location:
   latitude: 41.6579584
   longitude: -92.9267712
-  agl: 20
+  agl: 120
   altitude: 284
 ---
