@@ -1,6 +1,6 @@
 ---
 date: 2025-08-23
-title: Introducting The Heltec MeshSolar
+title: Introducing The Heltec MeshSolar
 author: Calvin Jutting ([@KN0CTJ](calvin@iowamesh.net))
 ---
 
