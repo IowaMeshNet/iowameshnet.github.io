@@ -5,8 +5,8 @@ lora:
   shortName: SEJC
   longName: IowaMesh SE Jasper Co [iowamesh.net]
   mode: ROUTER
-  nodeNumber: 1319171495
-  meshtasticId: '!4ea0f5a7'
+  nodeNumber: 1350784036
+  meshtasticId: '!50835424'
   mqtt: Indirect
 contact:
   name: Calvin
