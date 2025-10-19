@@ -2,7 +2,7 @@
 title: MQTT Settings For IowaMesh
 ---
 
-Given how spread out we are with the mesh in Iowa we have opted to use MQTT to brindge the gaps between long distances.
+Given how spread out we are with the mesh in Iowa we have opted to use MQTT to bridge the gaps between long distances.
 
 This page is hidden on purpose for more advances uses.
 
