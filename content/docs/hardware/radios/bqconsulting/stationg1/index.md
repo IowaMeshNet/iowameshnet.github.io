@@ -1,3 +1,0 @@
----
-title: Station G1
----
