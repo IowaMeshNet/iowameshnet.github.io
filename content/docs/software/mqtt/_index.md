@@ -4,18 +4,18 @@ title: MQTT Settings For IowaMesh
 
 Given how spread out we are with the mesh in Iowa we have opted to use MQTT to brindge the gaps between long distances.
 
-This page is hidden on purpose for more advances uses.
 
 ### MQTT Configuration
 
 **Server**: mqtt.iowamesh.net  
-**Port**: 8882 for Non-TLS, 8883 for TLS
+**Port**: 8882 for Non-TLS
+
 **User**: iromesh  
 **Password**: 2Gab9eAz  
 **Root Topic**: iromesh  
 **JSON**: Yes (if your device supports it)  
 **Encrypted**: No  
-**TLS**: Yes/No (See Port Above; Some devices don't like TLS)  
+**TLS**: No
 **OkToMQTT**: Yes (Needed in 2.5.x and Newer to publish)
 
 Please note that if you do not enable 'Ok to MQTT' or opt to enable 'Ingore MQTT', messages sent by you or heard through you will not be passed along. This could break the mesh longer term if you are covering alot of area.
