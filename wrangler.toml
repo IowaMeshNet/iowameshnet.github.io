@@ -24,3 +24,6 @@ invocation_logs = true
 enabled = false
 persist = true
 head_sampling_rate = 1
+
+[triggers]
+crons = "15 2 * * *"
