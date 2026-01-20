@@ -1,4 +1,4 @@
- Configure Cloudflare Worker
+#Configure Cloudflare Worker
 
 name = "iowameshnet"
 compatibility_date = "2025-07-31"
