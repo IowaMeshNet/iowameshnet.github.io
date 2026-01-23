@@ -32,6 +32,9 @@ If you see nodes but not messages → the relay probably isn’t downlinking tha
 
 The only real fix is to coordinate with whoever runs the relay nodes, or run your own MQTT bridge.
 
-One opinion on how it "should be configured":  It’s fine to uplink LongFast, but probably not wise to downlink LongFast due to volume. For a custom channel like IROMesh to work over MQTT, the relay nodes must have that channel configured and be both uplinking and downlinking it.
+One opinion on how it "should be configured":  
+
+It’s fine to uplink LongFast, but probably not wise to downlink LongFast due to volume. For a custom channel like IROMesh to work over MQTT, the relay nodes must have that channel configured and be both uplinking and downlinking it.
+
 
 Also, everyone who wants to participate via MQTT needs to have “OK to MQTT” enabled on that channel.
