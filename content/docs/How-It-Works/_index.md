@@ -22,7 +22,7 @@ Be both uplinking and downlinking on that channel.
 
 If a relay node is uplinking only, you’ll show up on maps and node lists, but messages won’t make it back to you. If it’s downlinking only, it won’t forward local RF traffic to MQTT.
 
-I’ve seen a lot of mixed configurations: uplink only, downlink only, only on LongFast but not on IROMesh, etc. Depending on how those relays are set up, communication may or may not actually work end-to-end.
+There are a lot of mixed configurations: uplink only, downlink only, only on LongFast but not on IROMesh, etc. Depending on how those relays are set up, communication may or may not actually work end-to-end.
 
 So:
 
@@ -38,3 +38,4 @@ It’s fine to uplink LongFast, but probably not wise to downlink LongFast due t
 
 
 Also, everyone who wants to participate via MQTT needs to have “OK to MQTT” enabled on that channel.
+
