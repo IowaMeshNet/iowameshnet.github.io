@@ -21,7 +21,7 @@ Here's the magic behind it:
 - Radios running Meshtastic software form a resilient, self-healing mesh network.
 - Connect to these devices via Bluetooth for nearby use or through handheld nodes that double as repeaters.
 - Messages effortlessly hop from node to node, extending your reach and building a robust communication chain.
-- [A more detailed explanation](/docs/How-It-Works)
+- [A more detailed explanation](/docs/how-it-works)
 
 ## Ready to Get Started?
 
