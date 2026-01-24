@@ -7,8 +7,8 @@ Given how spread out we are with the mesh in Iowa we have opted to use MQTT to b
 
 ### MQTT Configuration
 
-**Server**: mqtt.iowamesh.net  
-**Port**: 8882 for Non-TLS
+**Server**: mqtt.iowamesh.net (or mqtt.iowamesh.net:8882 if your application doesn't support a separate port identifier)
+**Port**: 8882 (note the non-default Non-TLS port)
 
 **User**: iromesh  
 **Password**: 2Gab9eAz  
