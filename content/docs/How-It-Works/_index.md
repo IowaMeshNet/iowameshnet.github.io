@@ -1,3 +1,7 @@
+---
+title: How it Works
+---
+
 A Meshtastic device (SBC or microcontroller with a LoRa radio) listens on a single channel slot. That slot is derived from hashing your channel name (or from how you hard-code the config). Most people around here are using the default LongFast channel with the default key, which ends up on channel slot 20. That’s why the local mesh tends to “just work” for RF.
 
 When packets come in over LoRa, the Meshtastic firmware tries to decrypt them using your configured channel keys. If decryption succeeds, the message is displayed to you (screen, phone, etc). If the packet matches the Meshtastic protocol but cannot be decrypted, it is still rebroadcast so other radios that might have the correct key can receive it. In this way, your node participates in the mesh automatically at the RF level.
