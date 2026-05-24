@@ -20,7 +20,7 @@ menu:
 
 {{% blocks/lead color="gray" %}}
 <h2>Check out our neighbor networks!</h2>
-{{% /bocks/lead %}}
+{{% /blocks/lead %}}
 
 {{< blocks/section color="white" >}}
 
