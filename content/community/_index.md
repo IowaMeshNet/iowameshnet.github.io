@@ -22,10 +22,10 @@ menu:
 <h2>Check out our neighbor networks!</h2>
 {{% /blocks/lead %}}
 
-{{< blocks/section color="white" >}}
+{{% blocks/section color="white" %}}
 
 - [MSPMesh](https://mspmesh.org/) - Minneapolis metro area and expanding into the rest of Minnesota
 - [Missouri Mesh](https://missourimesh.org/)
 - [MeshSTL](https://meshstl.org/) - St Louis and surrounding areas
 
-{{< /blocks/section >}}
+{{% /blocks/section %}}
