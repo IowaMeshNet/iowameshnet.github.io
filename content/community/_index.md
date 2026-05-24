@@ -17,3 +17,15 @@ menu:
 
 <p><strong>Let’s work together!</strong> Reach out today at <a href="mailto:info@iowamesh.net">info@iowamesh.net</a> to learn how you can contribute to the network. Every node helps push the boundaries of open communication!</p>
 {{< /blocks/section >}}
+
+{{% blocks/lead color="gray" %}}
+<h2>Check out our neighbor networks!</h2>
+{{% /blocks/lead %}}
+
+{{% blocks/section color="white" %}}
+
+- [MSPMesh](https://mspmesh.org/) - Minneapolis metro area and expanding into the rest of Minnesota
+- [Missouri Mesh](https://missourimesh.org/)
+- [MeshSTL](https://meshstl.org/) - St Louis and surrounding areas
+
+{{% /blocks/section %}}
